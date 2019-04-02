@@ -55,7 +55,8 @@ Logger_Iface;
 struct Logger
 {
     const Logger_Iface* vtable;
-    void*               context; // can be useful in the processing of the loggers chain
+    void*
+    context; // can be useful in the processing of the loggers chain
     void*               next;
     uint8_t             mask;
 };
