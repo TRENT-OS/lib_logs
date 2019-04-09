@@ -90,7 +90,7 @@ Logger_enqueue(Logger* self, Log* log)
  * @brief constructor
  *
  * @param self pointer to self
- * @patam mask for the abled Log_Level of the logger
+ * @param mask for the abled Log_Level of the logger
  *
  * @return self
  *
