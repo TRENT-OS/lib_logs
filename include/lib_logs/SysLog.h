@@ -1,5 +1,5 @@
 /**
- * @addtogroup libLogs
+ * @addtogroup LibLogs
  * @{
  *
  * @file SysLog.h
