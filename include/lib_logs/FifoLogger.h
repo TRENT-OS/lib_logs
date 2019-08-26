@@ -52,3 +52,4 @@ FifoLogger_enqueue(Logger* logger, Log* log);
 
 #endif /* FIFOLOGGER_H */
 
+///@}

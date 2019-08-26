@@ -49,3 +49,4 @@ FifoT_DECLARE(LogFifo_Element, LogFifo, size_t);
 
 #endif /* LOGFIFO_H */
 
+///@}
