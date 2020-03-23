@@ -26,7 +26,7 @@
 #if !defined(DEBUG_CONFIG_H_FILE)
 #   define Debug_ASSERT_SELF(x)
 #else
-#   include "lib_debug/Debug.h"
+#   include "SeosLogger.h"
 #endif
 #include "lib_compiler/compiler.h"
 
