@@ -13,7 +13,7 @@
  *
  * @author Carmelo Pintaudi
  *
- * Copyright (C) 2019, Hensoldt Cyber GmbH
+ * Copyright (C) 2019, HENSOLDT Cyber GmbH
  */
 #if !defined(LOGGER_H)
 #define LOGGER_H
