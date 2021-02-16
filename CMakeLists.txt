@@ -26,13 +26,8 @@ target_link_libraries(${PROJECT_NAME}
 )
 
 #-------------------------------------------------------------------------------
-# MOCKS
+# TESTING
 #-------------------------------------------------------------------------------
 if (BUILD_TESTING)
-    add_library("${PROJECT_NAME}_mocks" INTERFACE)
-
-    target_include_directories("${PROJECT_NAME}_mocks"
-        INTERFACE
-            "include"
-    )
+    add_subdirectory(mocks)
 endif ()
