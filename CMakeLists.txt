@@ -1,5 +1,5 @@
 #
-# Macros Library
+# Logging Library
 #
 # Copyright (C) 2020, HENSOLDT Cyber GmbH
 #

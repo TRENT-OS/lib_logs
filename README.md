@@ -1,3 +1,3 @@
-# The Logging Library
+# Logging Library
 
-This repository consists of the logging utility modules.
+The library provides logging utilities.
